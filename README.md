@@ -1,6 +1,6 @@
 
 ## 🙋‍♂️ About Me:
-Hello Everyone this is Ritesh from MMMUT, GKP pursuing Computer Science and Engineering branch.
+Hello Everyone this is Ritesh from MMMUT, GKP pursuing Computer Science and Engineering.
 
 ## 🌎 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshydv05)
